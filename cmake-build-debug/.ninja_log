@@ -1,0 +1,18 @@
+# ninja log v5
+0	101	6703332826019496	CMakeFiles/DataStructure.dir/main.cpp.obj	115ecafce7c61804
+9	511	6710414402282851	CMakeFiles/DataStructure.dir/Linked/MergeBySize.cpp.obj	e93aec8a6efc41a5
+5	499	6710414402173119	CMakeFiles/DataStructure.dir/Linked/SingleLinked.cpp.obj	51ab909f46aad703
+645	848	6724349568731347	DataStructure.exe	4066e3fc1f811c9
+5	644	6724349566715999	CMakeFiles/DataStructure.dir/Test/CinDebugTest.cpp.obj	c84bd59d78e3671f
+4	372	6704411498156658	CMakeFiles/DataStructure.dir/Test/Test.cpp.obj	b3c618c0907d6bb2
+17	488	6710414402053460	CMakeFiles/DataStructure.dir/Stack/Stack.cpp.obj	6e726c05a4291700
+20	484	6710414402033499	CMakeFiles/DataStructure.dir/Stack/ConvertDecimal.cpp.obj	d0083d686b7df364
+38	1824	6724320457507372	CMakeFiles/DataStructure.dir/Queue/Queue.cpp.obj	fb43165e1a3b9775
+19	902	6734302234325967	CMakeFiles/DataStructure.dir/String/String.cpp.obj	7630d672916715f
+8	905	6734302234315994	CMakeFiles/DataStructure.dir/Test/CinDebugTest.cpp.obj	c84bd59d78e3671f
+25	1185	6734302236994570	CMakeFiles/DataStructure.dir/Tree/RecursionTree.cpp.obj	31011987b548997c
+14	1200	6734302237300749	CMakeFiles/DataStructure.dir/Tree/NonRecursionTree.cpp.obj	ec8b70a07a55759f
+8	122	6734302347536748	CMakeFiles/DataStructure.dir/Tree/RecursionTree.cpp.obj	31011987b548997c
+123	442	6734302350660468	DataStructure.exe	6c66d15311fb728d
+6	746	6734302494116108	CMakeFiles/DataStructure.dir/Tree/NonRecursionTree.cpp.obj	ec8b70a07a55759f
+747	1014	6734302496754862	DataStructure.exe	6c66d15311fb728d
